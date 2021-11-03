@@ -19,5 +19,4 @@ class FurnitureTest {
         assertNull(testedFurniture.getLocation());
         assertNull(testedFurniture.getName());
     }
-
 }
